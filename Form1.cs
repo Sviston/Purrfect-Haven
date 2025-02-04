@@ -15,7 +15,7 @@ namespace PurrfectHaven
 {
     public partial class Form1 : Form
     {
-        string ConnectionString = "Server=localhost;Port=3306;Database=purrfecthaven;Uid=root;Pwd=hentai2021;";
+        string ConnectionString = "Server=localhost;Port=3306;Database=purrfecthaven;Uid=root;Pwd=yourpassword;";
 
         List<Animal> animals = new List<Animal>();
         List<string> SpeciesNames = new List<string>();
